@@ -1,0 +1,32 @@
+body {
+  background-image: url(./images/bg.png);
+  background-repeat: no-repeat;
+}
+
+.fox {
+  display: block;
+  margin: auto;
+  margin-top: 200px;
+}
+
+.wrapper {
+  background-color: #93572e;
+  width: 300px;
+  text-align: left;
+  margin: 0 auto;
+  box-sizing: border-box;
+  color: #ffffff;
+  border-radius: 0 0 30px 30px;
+  box-shadow: 0 10px 0 #49260b;
+  line-height: 140%;
+}
+
+h1 {
+  margin: 0;
+  padding: 10px 20px 0px 20px;
+}
+
+p {
+  margin: 0;
+  padding: 20px;
+}
