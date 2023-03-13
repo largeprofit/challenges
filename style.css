@@ -1,12 +1,13 @@
 body {
   background-image: url(./images/bg.png);
   background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .fox {
   display: block;
-  margin: auto;
-  margin-top: 200px;
+  margin: 0 auto;
 }
 
 .wrapper {
